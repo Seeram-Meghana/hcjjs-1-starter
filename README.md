@@ -19,3 +19,4 @@ This is the starter repository for all Html Css and Javascript projects
 
 > 1. http://127.0.0.1:3000/src/index.html
 
+![First look](documentation/images/FirstLook.PNG)
